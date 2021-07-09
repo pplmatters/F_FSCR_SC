@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">F-FCSR_SC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aboutIV">IV二进制表示长度应该在0~128位，不足128位，高位补零；超过取高128位</string>
+    <string name="aboutKey">密钥长度应该为128位，不足高位补零</string>
+    
+    <string name="illegal_input">密钥和初始化向量不能同时为全0.</string><string name="default_input">默认初始化向量为全0；默认初始密钥为全1</string>
+    <string name="announcement">参数说明</string>
+    <string name="folderPath">baoliu</string>
+
+</resources>
